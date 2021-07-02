@@ -1,0 +1,5 @@
+Atos Spain S.A. eu.atos.atosreader.mlkit.OcrMrzDetectorProcessor.java added the ID OCR MRZ detection
+Atos Spain S.A. eu.atos.atosreader.task.OcrReaderTask.java modified the call to frameProcessor
+Atos Spain S.A. eu.atos.atosreader.mlkit.VisionImageProcessor added rotation to process method
+Atos Spain S.A. eu.atos.atosreader.mlkit.VisionProcessorBase added rotation to process method
+Atos Spain S.A. eu.atos.atosreader.activity.CameraOcrReaderActivity modified onPassportRead method
